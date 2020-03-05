@@ -1,0 +1,15 @@
+{
+  "name": "webscraping_nodejs_simples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thiago Silva <tpereira131@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.1",
+    "events": "^3.1.0",
+    "follow-redirects": "^1.10.0",
+    "json2csv": "^4.5.4",
+    "request-promise": "^4.2.5"
+  }
+}
